@@ -1,0 +1,11 @@
+#Data Loading
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+
+#Data embedding
+sentence-transformers
+faiss-cpu
+chromadb
